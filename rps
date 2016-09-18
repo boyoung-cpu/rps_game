@@ -70,7 +70,7 @@ if [ $pc = 2 ]; then
 	if [ $rps = 3 ]; then
 		echo "
 		당신이 이겼습니다."
-		pn=`echo $pn + 1 |bc`
+		yn=`echo $yn + 1 |bc`
 		echo "
 당신의 점수는 $yn 저의 점수는 $pn 입니다."
 	fi
