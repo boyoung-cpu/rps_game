@@ -3,12 +3,12 @@ Upstream-Name: callt
 Source: <url://example.com>
 
 Files: *
-Copyright: 2016 cosmosp2016 <cosmosproject15@gmail.com>
+Copyright: 2016 C O S M O S project <cosmosproject15@gmail.com>
 
 
 
 Files: debian/*
-Copyright: 2016 cosmosp2016 <cosmosproject15@gmail.com>
+Copyright: 2016 C O S M O S project <cosmosproject15@gmail.com>
 License: GPL-2.0+
 
 License: GPL-2.0+
