@@ -12,7 +12,7 @@ This program is "Rock Paper Scissors" game by simple type AI.
 # Run
 	./rps	
 
-# Copyright: 2016 C O S M O S project. ## <cosmosproject15@gmail.com>
-# License: GPL-2.0+
-# Homepage : http://cosmosproject2015.tistory.com
+## Copyright: 2016 C O S M O S project. ## <cosmosproject15@gmail.com>
+## License: GPL-2.0+
+## Homepage : http://cosmosproject2015.tistory.com
 
